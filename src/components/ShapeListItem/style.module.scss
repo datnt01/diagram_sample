@@ -1,0 +1,16 @@
+.shapeItem {
+	resize: both;
+    display: inline-block;
+	svg {
+		height: 100px;
+		max-width: 100px;
+		&:hover {
+			fill: green;
+			stroke: green;
+		}
+	}
+	img {
+		height: auto;
+		max-width: 100px;
+	}
+}

@@ -1,0 +1,17 @@
+.container {
+    background: white;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    
+    button {
+        margin-left: 5px;
+        height: 32px;
+    }
+
+    input {
+        height: 30px;
+        font-size: 1em;
+        padding: 0 10px;
+    }
+}
